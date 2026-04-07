@@ -4,4 +4,4 @@ Mi numero de legajo es 2034153
 
 Hincha de Velez, me gusta cocinar, ir al gimnasio y salir con amigos.
 
-![Foto Personal](img/foto.jpeg)
+<img src="foto.jpeg" alt="Mi foto personal" width="200" />
